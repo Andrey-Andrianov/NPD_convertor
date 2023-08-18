@@ -18,7 +18,7 @@ To start the converter, just download the NPD_converter.zip file, unpack the arc
 
 # How to use
 
-"Input CFX-File" - The path to the ASC Correlator configuration file .cfx file. View example.cfx or read the paper [Play](https://doi.org/10.1142/S2251171717500040) for more details.
+"Input CFX-File" - The path to the ASC Correlator configuration file .cfx file. View example.cfx or read the [paper](https://doi.org/10.1142/S2251171717500040) for more details.
 "Dispersion" - Disperse measure (DM) in the direction to the pulsar.
 "Interval size" - The number of samples in the data from which the Fourier transform is taken.
 "SubInterval size" - The number of samples in the data for which the floating average is calculated for the automatic gain control algorithm.
