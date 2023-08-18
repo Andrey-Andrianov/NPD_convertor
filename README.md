@@ -38,5 +38,5 @@ To start the converter, just download the NPD_converter.zip file, unpack the arc
 
 # Link to the paper
 
-More details about this software in papar (Link will be availible later)
+More details about this software in paper (Link will be availible later)
 
